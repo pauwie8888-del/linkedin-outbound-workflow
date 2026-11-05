@@ -37,10 +37,6 @@ Reference export located and structurally inspected. Authorship, licensing, pers
 
 The file contains linked workflow steps consistent with the approach described here. The inspected local n8n inventory did not establish a corresponding installed workflow. Workspace and connected Drive searches did not produce execution or outcome evidence.
 
-## Limitations and next steps
-
-This is not yet a verified completed portfolio project. The file includes an external-agent action, so it must not be described as draft-only or safely review-gated. Before promotion: establish provenance and personal contribution, inspect permissions, document review controls and produce a controlled test record. No workflow was imported or executed during this portfolio review.
-
 ## Explore
 
 - [Design thinking and methodology](METHODOLOGY.md)
